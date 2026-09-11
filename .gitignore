@@ -15,6 +15,7 @@ __pycache__/
 
 # Build outputs
 dist/
+!frontend/dist/
 build/
 .pytest_cache/
 *.egg-info/
